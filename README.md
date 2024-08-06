@@ -11,9 +11,13 @@ The purpose of this project is to analyze a dataset of medical students to uncov
 The analysis begins with loading the dataset, followed by:
 
 1.Viewing the Dataset: Checking the structure, dimensions, and initial rows.
+
 2.Handling Missing Values: Replacing missing values with mean/mode values.
+
 3.Handling Duplicates: Identifying and removing duplicate records.
+
 4.Data Transformation: Converting categorical data to numerical values and normalizing/standardizing numerical data.
+
 5.Outlier Detection: Identifying and addressing outliers in the dataset.
 
 
@@ -22,9 +26,13 @@ The analysis begins with loading the dataset, followed by:
 The dataset was visualized using various plots, including:
 
 1.Histogram of Age: To visualize the age distribution among the students.
+
 2.Gender Distribution: A bar chart to show the distribution of gender.
+
 3.Scatter Plot of Weight vs. Height: To explore the relationship between weight and height.
+
 4.Boxplot of Cholesterol by Diabetes Status: To analyze the distribution of cholesterol levels based on diabetes status.
+
 5.Grouped Bar Charts: For comparative analysis of different health metrics by gender.
 
 
@@ -33,7 +41,9 @@ The dataset was visualized using various plots, including:
 The analysis included:
 
 1.Basic Statistics: Calculating means, modes, and standard deviations.
+
 2.Normalization and Standardization: For uniform scaling of data.
+
 3.Mode Calculation: Used for imputation of categorical variables.
 
 
