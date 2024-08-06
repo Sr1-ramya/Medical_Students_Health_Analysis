@@ -3,9 +3,11 @@
 This repository contains the R code for analyzing a dataset of medical students. The analysis covers data cleaning, transformation, visualization, and statistical exploration of various health-related metrics and demographic information.
 
 ->INTRODUCTION
+
 The purpose of this project is to analyze a dataset of medical students to uncover insights into their demographic and health characteristics. The dataset includes attributes such as age, gender, height, weight, blood type, and other health-related metrics like BMI, cholesterol levels, and more.
 
 ->DATA CLEANING AND TRANSFORMATION
+
 The analysis begins with loading the dataset, followed by:
 
 1.Viewing the Dataset: Checking the structure, dimensions, and initial rows.
@@ -16,6 +18,7 @@ The analysis begins with loading the dataset, followed by:
 
 
 ->VISUALIZATION
+
 The dataset was visualized using various plots, including:
 
 1.Histogram of Age: To visualize the age distribution among the students.
@@ -26,6 +29,7 @@ The dataset was visualized using various plots, including:
 
 
 ->STATISTICAL ANALYSIS
+
 The analysis included:
 
 1.Basic Statistics: Calculating means, modes, and standard deviations.
@@ -34,6 +38,7 @@ The analysis included:
 
 
 ->CONCLUSION
+
 This comprehensive analysis provided several insights:
 
 1.Demographic Insights: A balanced gender representation and a diverse age range were observed, reflecting the varied backgrounds of the medical students.
